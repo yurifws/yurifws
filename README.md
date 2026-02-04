@@ -35,7 +35,8 @@ Performance optimization & cloud migrations for financial systems
   <img align="center" alt="Solidity" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" />
 </div>
 
-**Core:** Java, Spring Boot, Microservices, REST APIs, gRPC
+
+**Core:** Java, Spring Boot, Microservices, REST APIs, gRPC  
 **Cloud:** AWS, Azure, Docker, Terraform, CI/CD  
 **Data:** Kafka, PostgreSQL, MongoDB, Redis  
 **Architecture:** Clean Architecture, DDD, Event-Driven
