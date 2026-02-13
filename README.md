@@ -14,26 +14,6 @@ Senior Software Engineer specializing in high-performance financial systems with
 - 🚀 **60% faster deployments** via CI/CD optimization
 - 👨‍🏫 Mentored **5+ developers** on microservices architecture
 
-## 💼 Experience
-
-**Senior Software Engineer @ Quod** *(Jan 2024 - Present)*  
-Leading fraud detection platform with event-driven microservices (Spring Boot, Kafka) achieving 99.9% uptime. Reduced deployment time by 60% through CI/CD optimization. Mentoring 5+ developers.
-
-**Application Development Specialist @ Accenture** *(Dec 2021 - Jan 2024)*  
-Delivered 90% response time reduction for insurance platform handling 1000+ daily requests through database optimization and Redis caching. Led AWS migration reducing infrastructure costs by 35%. Achieved 85% code coverage with automated testing.
-
-**Senior Analyst @ Accenture** *(Aug 2020 - Dec 2021)*  
-Migrated 8 legacy applications to AWS improving uptime from 95% to 99.5%. Transformed monolithic architecture into 12 microservices. Reduced deployment time by 50% through Docker containerization.
-
-**Analyst @ Accenture** *(Dec 2019 - Aug 2020)*  
-Improved database performance by 50% and migrated 5 VB.NET modules to Java/Spring Boot, reducing maintenance costs by 40%. Established unit testing practices achieving 70% code coverage.
-
-**Associate @ Accenture** *(Jan 2018 - Dec 2019)*  
-Built JSF-based currency exchange platform serving 500+ daily traders. Reduced transaction processing time by 30% through Java and Cobol optimization.
-
-**Software Developer Intern @ SYSTI** *(Sep 2016 - Jan 2018)*  
-Developed 15+ web features using VB.NET and ASP.NET for enterprise ERP system.
-
 ## 💻 Tech Stack
 
 <div style="display: inline_block">
