@@ -28,10 +28,10 @@ Senior Software Engineer specializing in high-performance financial systems with
 </div>
 
 
-**Core:** Java, Spring Boot, Microservices, REST APIs, gRPC  
+**Core:** Java, Go, Spring Boot, Microservices, REST APIs, gRPC  
 **Cloud:** AWS, Azure, Docker, Terraform, CI/CD  
-**Data:** Kafka, PostgreSQL, MongoDB, Redis  
-**Architecture:** Clean Architecture, DDD, Event-Driven
+**Data:** Kafka, PostgreSQL, MongoDB, Redis, RabbitMQ  
+**Architecture:** Hexagonal Architecture, Clean Architecture, DDD, Event-Driven
 
 ## 🌱 Currently Learning
 
