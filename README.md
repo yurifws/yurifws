@@ -1,6 +1,6 @@
 # Hi there, I'm Yuri Silva! 👋
 
-**Senior Backend Engineer** | **Java & Spring Boot Specialist** | **9+ Years Experience**
+**Senior Backend Engineer** | **Java & Spring Boot Specialist** | **10+ Years Experience**
 
 📍 Remote (GMT -7 to GMT+3) | 💼 Open to global opportunities
 
