@@ -80,10 +80,10 @@ I don't just use AI tools — I engineer how I work with them.
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+![Yuri's GitHub Stats](https://github-readme-stats2-beta.vercel.app/api?username=yurifws&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Yuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yurifws&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yurifws&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats2-beta.vercel.app/api/top-langs/?username=yurifws&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=yurifws&theme=tokyonight&hide_border=true)
 
